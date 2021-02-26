@@ -14,3 +14,7 @@ How to run:
 11. type "exit()"
 12. type "python run.py".
 13. Visit "localhost:5000".
+
+To use the demo, visit: https://cardination.herokuapp.com/
+create account for doctor and patient and you are good to go.
+Don't forget to use the voice assistance.
